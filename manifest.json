@@ -1,0 +1,331 @@
+{
+  "version": "v20260320-144304",
+  "timestamp": "2026-03-20T14:43:05.663582",
+  "game_build_id": "22407134",
+  "mods": {
+    "pakchunk97-Restoration_AIO_Nexus_BP_P.pak": {
+      "size": 18000035,
+      "sha256": "f1ad88850ba7cfb122abb9fad60d7edb0a9ec96bf66079c63538eefd66e2615d",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-CosmeticUnlocker_BP_P.pak": {
+      "size": 249183,
+      "sha256": "b1cb72f164dce625fec41b0c5e9c9b7b773db14a43b6ec9c67ae6a252dd58f59",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-CosmeticUnlocker_Secret_BP_P.pak": {
+      "size": 6521,
+      "sha256": "87b95956814cd784fd4f064b1a39a8b3be4864b86b88ea23b6f364fd3bf5554f",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-FixOwnerView_P.pak": {
+      "size": 19961,
+      "sha256": "f947601b772abc07326c381c861a0611a7868b3bb18978674dd62446bc14d2cb",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mod_PlayerLimitEditor.pak": {
+      "size": 26781,
+      "sha256": "c482389c3206a7bdbfacb70637aa1760b1291b276b7a23741db8bd4e9dce0b94",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mod_SimpleBlueprintLoader.pak": {
+      "size": 38319,
+      "sha256": "1b48ea4d5b17fa5aba2cc52c5556cb37846e20c137858edfb8719d500dce7a32",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mod_SimpleModMenu.pak": {
+      "size": 1461802,
+      "sha256": "9c710d9e6b69a31b4c157401a62cf4f97bfe6310dcfdcceb2f5dbb88b9b559ef",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_25_P.pak": {
+      "size": 11337,
+      "sha256": "040f755a019bc2123dd89bcf1f33b7f4f26ca0afb55246ed0b7bb4aa89087ecb",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_Bearcat_Sheriff_UE5.pak": {
+      "size": 242866,
+      "sha256": "0d6605cf5c6be24902d87ca5895a7a769575121c5446be060c363ee796e1b2b2",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_ExsaitX_Armory_V2_Assets_P.pak": {
+      "size": 455550467,
+      "sha256": "328a05ebddfef25b667c7dc0e24c821c4e1d34e2d0d1d9585478ecfeba94e550",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_ExsaitX_Armory_V2_BluePrints_P.pak": {
+      "size": 394183,
+      "sha256": "f8e6a3177b058cdeb64e1ac52fa31034cdc00f409b7c4ad32048dc03634e3ef8",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_FRASCustomization_P.pak": {
+      "size": 5511492,
+      "sha256": "4729ad7b4bf1023ff0dc3c84502084eb01cd40c82993e255ae4c25badc9c16e0",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_LegacyAlphaHRT_AllInOne_P.pak": {
+      "size": 94984309,
+      "sha256": "321e735ccd9837abbb1f296b49573d3b00b1233030b1be79dee6fe03068f5d3d",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_LegacyAlphaMLO_AllInOne_P.pak": {
+      "size": 138168326,
+      "sha256": "33a86b16d772ef08a6b2fc00b41284285939471eec90f5cb5dfa5a31e43c86ac",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_LegacyAlphaSWATHeads_AllInOne_P.pak": {
+      "size": 44212376,
+      "sha256": "a658e645d4fc5f0b943471bd1cb869696c649db91ae9e2bd5b688f64620345d2",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_LegacyMaskedSWATHeads_AllInOne_P.pak": {
+      "size": 12829271,
+      "sha256": "97990392e236259ae9311668e5e94499d7295afb6b3115ae93bf154f5a2ef0e1",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_LegacyPVS15_AllInOne_P.pak": {
+      "size": 8419847,
+      "sha256": "5e38d376804c56e4628531a1c23fd95abfb7455346ab67c1c5adab0c643ffeb8",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_NoMercy_P.pak": {
+      "size": 2018,
+      "sha256": "f10b69b81452354620ec13f315c45f0d2e26913d3371d47e7220bff41f32b990",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_No_Crack_AI_P.pak": {
+      "size": 60118,
+      "sha256": "074e9584bb34df30ea3eb881cfede202740edacaef7ac3c7777470108d5c85ad",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_Riot_Uniform_P.pak": {
+      "size": 94414518,
+      "sha256": "cf5b36972aff0de95d4bd872c5a4533fd21c97d38ba3d2585f7ddd0f2107bfa9",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_SCP_MTF_AR_27_P.pak": {
+      "size": 426322992,
+      "sha256": "89ad55473a2dcaec76fa94706a7ccf86d092962d3c311f48cb82df9aabae4de4",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_Sheriff_Shield_P.pak": {
+      "size": 8888316,
+      "sha256": "54b5b87de02afa0d3419b472e421522ef57a8010ee2e12321da7cdbfc8ee0293",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_Uniform_CRYE_G3_P.pak": {
+      "size": 72469796,
+      "sha256": "ceaf75081bf16b67d70e2d9cbae05b1474cbfaf0b408c67fbd356d1964f2cc28",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_WeaponAttachmentsLoader_AllInOne_P.pak": {
+      "size": 26900,
+      "sha256": "2150493e2eaaed31a2eca1c65820ebba43c39d3b53a5e84f4fed04da8e24838d",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-NVGAnimScript_P.pak": {
+      "size": 14671,
+      "sha256": "5d1a0d46eed3507a79f28c2057dc3c588ba7e8fcbc6dc503de64326ac91b14fc",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Qjb201_P.pak": {
+      "size": 27114974,
+      "sha256": "7389b382212236950f5a21545cfdc47cbcb6f5ae80f13fb16c197db84d2e8c56",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_AVP_BetterVestsRemastared_ATAK_P.pak": {
+      "size": 26019720,
+      "sha256": "c9ed5ffacb98b28300fd110e9752160f33a3f7f76e05cc72f7997b5314b74cef",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_BAL_DLC4_Belt_FC-Bison-MC_P.pak": {
+      "size": 46661952,
+      "sha256": "35598904fc7bb8542b8c241a4338a651d42636ad2ebe8171875224d33f43699c",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_BAL_DLC4_Belt_RaptorDunbar_LEO_P.pak": {
+      "size": 67202790,
+      "sha256": "2fbca12be234001c56843388dec936ef9d0d1828352042465b4bdefcc603f45d",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_BAL_DLC4_Helmet_FAST-SF_P.pak": {
+      "size": 75320117,
+      "sha256": "fd0c106924f2f593fb84a1f37ef2f53ea7f60db77acc97c083c549b1bf676859",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_BAL_DLC4_Helmet_IHPS_P.pak": {
+      "size": 39764188,
+      "sha256": "44eedd12eb51ad5b6ca26d3f42468424ac3e9e0a1508dac39d57aa6d465d4ec1",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_BAL_RC_Armor_JPC_2_P.pak": {
+      "size": 267341008,
+      "sha256": "28a6201df0d029f945638e10a5f8bea857220284252981d742779c0bdce09898",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_BAL_UE5_Nightvision-Expansion_P.pak": {
+      "size": 176572935,
+      "sha256": "31f401f1fc5e30b54608bdcaa25049e617e017a4e778d7eb96cf39aa33320b74",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_BShotRepo_P.pak": {
+      "size": 23405,
+      "sha256": "992349ed58bebccbdbca57b8441486240a4427227ded41952bcaafb82209301c",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_Bravo_AR_Attachments_P.pak": {
+      "size": 79113134,
+      "sha256": "fa01649d1469e06cd4eb88c08c0df18ee11840ca554af03dbd4030cdc007ba7f",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_Bravo_Colt933_AddOn_P.pak": {
+      "size": 29917430,
+      "sha256": "3274eb199f10c1f578cecc97f6bbc6323c87d9b7c1da1daf96c778ea9c355427",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_Donut_Ronin_Senshi_P.pak": {
+      "size": 234919930,
+      "sha256": "cee0f1792c4065d1f7caebcc79c44c446779d6b6fcfce165dfd09a3edccd8ff4",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_ExsaitX_APC9K_P.pak": {
+      "size": 8913522,
+      "sha256": "e321e310fe9ee021f2eba83e9f3c54b608a48a8ee67b6e59617fee493e594a6e",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_ExsaitX_JW_Gen12_ReWork_P.pak": {
+      "size": 10482737,
+      "sha256": "3108152163f3841fccd7bae56f0b917bdc7251ac48541ae458b07f71ef0a91a4",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_MW2019Attachments_P.pak": {
+      "size": 110380143,
+      "sha256": "5fe285d3329206f0438d1d96480ea1926809942ded1c38610da7e89fe5977c3b",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_Mechanix_OG_Gloves_Standalone_P.pak": {
+      "size": 32131698,
+      "sha256": "e89a65ae594814721d818820f90718ab83e471e64c3e835c2895ad23a4cf8236",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_Oakley_Pilot_Gloves_Fixes_P.pak": {
+      "size": 2931971,
+      "sha256": "76af4997274480d9051e22a4128f66c10e49b141c2784ce794412e86ccc917af",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_Oakley_SI_Assault_Gloves_Standalone_P.pak": {
+      "size": 16708331,
+      "sha256": "66a6766a0c66ad9a7266a89511105a5167ea1c0f735d9c50bd472efc46d1eb2c",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_RebelSF_Police_and_Sheriff_Retex_P.pak": {
+      "size": 146030381,
+      "sha256": "de8548a2dc0e591133149aaddb9e3b18c1ec6eae3826ecf8a8abd5e342ca0c3b",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_Sheriff_LSSD_SEB_RG_DLC3_P.pak": {
+      "size": 419849422,
+      "sha256": "703a655f793c6622d96522877f83449a2d9db82ac01f750a83b57cc93416aaff",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk999-Mods_XK591_Material_P.pak": {
+      "size": 2477638,
+      "sha256": "4a39e814c831efed7907a4da27ca14da03162ce8c8be3130a1d0b812d567e3d5",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk9999-Mods_Bravo_Blueprints_Attachments_DLC4_P.pak": {
+      "size": 91182,
+      "sha256": "4f60d0cf1e8521cdff5e5da0e245407d99b5edf21f58c9caf5d8cc4570aa1f45",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk9999-Mods_CazanusVisceralBlud_P.pak": {
+      "size": 188813587,
+      "sha256": "12c181d0623b26d90f1baf9523e54a1af2de1ecdaa8dd91c6d1351a1fd76b135",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk9999-Mods_Moon-47_1_P.pak": {
+      "size": 17627882,
+      "sha256": "9b74b924685001092e7a59dbbf66f734836f8af73d380387d49173a0eda3b6dd",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk9999-Mods_Moon-AN_1_P.pak": {
+      "size": 26123609,
+      "sha256": "ebc896c094e40ca25140394af9b49c9b8d17080a084338b1b9de1425d38267a5",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk9999-Mods_Super_Dismemberment_Ammo_P.pak": {
+      "size": 6333,
+      "sha256": "12aea6c4ae2419aadf3f2e061e3154ec661d3969f4e5101abf290d150ba419d7",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk9999-Mods_wound_P.pak": {
+      "size": 4053070,
+      "sha256": "afb62f78d02c25f6b5229f841dcba0abfb9f7049454df70ca8c5558594cc78a1",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99999-Mods_LSSDdeputies_P.pak": {
+      "size": 36972562,
+      "sha256": "47a8c3d6644c5eefbccedfedac8fe134d8bf8008ec54b381aea6f4b4e269f18b",
+      "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99_SA_NO_screen_effects_P.pak": {
+      "size": 92599,
+      "sha256": "5f668794ade73e1016acd3ad110aa7561ccf93e36860254e235e27434fe4a086",
+      "github_url": "",
+      "dropbox_url": ""
+    }
+  }
+}
