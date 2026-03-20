@@ -1,6 +1,6 @@
 {
-  "version": "v20260320-144304",
-  "timestamp": "2026-03-20T14:43:05.663582",
+  "version": "v20260320-144532",
+  "timestamp": "2026-03-20T14:45:34.899660",
   "game_build_id": "22407134",
   "mods": {
     "pakchunk97-Restoration_AIO_Nexus_BP_P.pak": {
@@ -133,6 +133,12 @@
       "size": 8888316,
       "sha256": "54b5b87de02afa0d3419b472e421522ef57a8010ee2e12321da7cdbfc8ee0293",
       "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk99-Mods_Tir_Holo_Clarity_P.pak": {
+      "size": 30210,
+      "sha256": "63fc9067485e0796bebd0ac74d6d4d3b93f21c12685e2dd3e8ae3ca14b745aa9",
+      "github_url": "https://github.com/trustxix/ron-mod-pack/releases/download/v20260320-144532/pakchunk99-Mods_Tir_Holo_Clarity_P.pak",
       "dropbox_url": ""
     },
     "pakchunk99-Mods_Uniform_CRYE_G3_P.pak": {
@@ -277,6 +283,12 @@
       "size": 2477638,
       "sha256": "4a39e814c831efed7907a4da27ca14da03162ce8c8be3130a1d0b812d567e3d5",
       "github_url": "",
+      "dropbox_url": ""
+    },
+    "pakchunk9999-ChemlightPurple_50.pak": {
+      "size": 13479,
+      "sha256": "67ad2651035b35a9eb2657bc85e61385c4862e9cf876623a9d9c3898a8793de9",
+      "github_url": "https://github.com/trustxix/ron-mod-pack/releases/download/v20260320-144532/pakchunk9999-ChemlightPurple_50.pak",
       "dropbox_url": ""
     },
     "pakchunk9999-Mods_Bravo_Blueprints_Attachments_DLC4_P.pak": {
