@@ -1,6 +1,6 @@
 {
-  "version": "v20260320-144802",
-  "timestamp": "2026-03-20T14:51:42.060044",
+  "version": "v20260320-230832",
+  "timestamp": "2026-03-20T23:08:38.024171",
   "game_build_id": "22407134",
   "mods": {
     "pakchunk97-Restoration_AIO_Nexus_BP_P.pak": {
@@ -214,9 +214,9 @@
       "dropbox_url": ""
     },
     "pakchunk999-Mods_Bravo_AR_Attachments_P.pak": {
-      "size": 79113134,
-      "sha256": "fa01649d1469e06cd4eb88c08c0df18ee11840ca554af03dbd4030cdc007ba7f",
-      "github_url": "https://github.com/trustxix/ron-mod-pack/releases/download/v20260320-144802/pakchunk999-Mods_Bravo_AR_Attachments_P.pak",
+      "size": 79113031,
+      "sha256": "a919d6489c7c298504948c3da10b181bcd1dc5d3ce0e84dccd85dd50057ad5e1",
+      "github_url": "https://github.com/trustxix/ron-mod-pack/releases/download/v20260320-230832/pakchunk999-Mods_Bravo_AR_Attachments_P.pak",
       "dropbox_url": ""
     },
     "pakchunk999-Mods_Bravo_Colt933_AddOn_P.pak": {
