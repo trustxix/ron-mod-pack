@@ -1,6 +1,6 @@
 {
-  "version": "v20260320-230832",
-  "timestamp": "2026-03-20T23:08:38.024171",
+  "version": "v20260321-230658",
+  "timestamp": "2026-03-21T23:06:59.922429",
   "game_build_id": "22407134",
   "mods": {
     "pakchunk97-Restoration_AIO_Nexus_BP_P.pak": {
@@ -57,6 +57,12 @@
       "github_url": "https://github.com/trustxix/ron-mod-pack/releases/download/v20260320-144802/pakchunk99-Mods_Bearcat_Sheriff_UE5.pak",
       "dropbox_url": ""
     },
+    "pakchunk99-Mods_Crack_Attack_AI_P.pak": {
+      "size": 60757,
+      "sha256": "1727baad155622aed690077e88dceee1ab1ae89559c0492fe5fb95cc2aa6fbc8",
+      "github_url": "https://github.com/trustxix/ron-mod-pack/releases/download/v20260321-230658/pakchunk99-Mods_Crack_Attack_AI_P.pak",
+      "dropbox_url": ""
+    },
     "pakchunk99-Mods_ExsaitX_Armory_V2_Assets_P.pak": {
       "size": 455550467,
       "sha256": "328a05ebddfef25b667c7dc0e24c821c4e1d34e2d0d1d9585478ecfeba94e550",
@@ -109,12 +115,6 @@
       "size": 2018,
       "sha256": "f10b69b81452354620ec13f315c45f0d2e26913d3371d47e7220bff41f32b990",
       "github_url": "https://github.com/trustxix/ron-mod-pack/releases/download/v20260320-144802/pakchunk99-Mods_NoMercy_P.pak",
-      "dropbox_url": ""
-    },
-    "pakchunk99-Mods_No_Crack_AI_P.pak": {
-      "size": 60118,
-      "sha256": "074e9584bb34df30ea3eb881cfede202740edacaef7ac3c7777470108d5c85ad",
-      "github_url": "https://github.com/trustxix/ron-mod-pack/releases/download/v20260320-144802/pakchunk99-Mods_No_Crack_AI_P.pak",
       "dropbox_url": ""
     },
     "pakchunk99-Mods_Riot_Uniform_P.pak": {
